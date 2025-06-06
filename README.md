@@ -1,4 +1,5 @@
-Krishna E-Commerce Sales Dashboard
+Krishna E-Commerce Sales Dashboard- 
+
 This interactive Power BI dashboard provides a comprehensive overview of Krishna's e-commerce sales performance for Quarter 1. It presents key business metrics, sales trends, customer behaviors, and product performance to support data-driven decision-making.
 
 📊 Key Highlights
